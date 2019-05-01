@@ -10,7 +10,7 @@ This application supports **NVIDIA Jetson Nano Developer Kit** only at this time
 1. Download [coco-labels-paper.txt](https://github.com/amikelive/coco-labels/blob/master/coco-labels-paper.txt) from [amikelive/coco-labels](https://github.com/amikelive/coco-labels).
 
 ## Usage
-Locate the **tf-trt-ssd.py** script, **ssd_inception_v2_coco_trt.pb** and **coco-labels-paper.txt** to the same directory, and run the script.
+Locate the **tf-trt-ssd.py** script, **ssd_inception_v2_coco_trt.pb** and **coco-labels-paper.txt** to the same directory, then run the script.
 ~~~
 $ python3 tf-trt-ssd.py
 ~~~
