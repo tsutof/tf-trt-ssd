@@ -1,7 +1,7 @@
 # tf-trt-ssd
 Very simple TF-TRT application to detect objects from camera captured image.
 This application supports **NVIDIA Jetson Nano Developer Kit** only at this time.
-![Screenshot](screenshot.png)
+<img src="./screenshot.png" alt="Screenshot" title="Screenshot" width="200" height="200">
 
 ## Prerequisites
 1. NVIDIA Jetson Nano Developer Kit and Raspberry Pi Camera V2.
