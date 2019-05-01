@@ -135,6 +135,8 @@ def main():
         key = cv2.waitKey(1)
         if key == 27: # ESC 
             break
+            
+    tf_sess.close()
 
 if __name__ == "__main__":
     main()
