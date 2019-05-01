@@ -7,6 +7,6 @@ Very simple TF-TRT application to detect objects from camera captured image
 
 ## Usage
 Locate tf-trt-ssd.py, ssd_inception_v2_coco_trt.pb and coco-labels-paper.txt to the same directory.
-'''
+~~~
 $ python3 tf-trt-ssd.py
-'''
+~~~
